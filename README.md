@@ -1,12 +1,37 @@
-# React + Vite
+🛒 My First React E-Commerce App (Frontend Only)
+Welcome to my very first React project! This is a frontend-only, fully responsive e-commerce application built with modern React tools and best practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo
+👉 Check it out on Netlify
 
-Currently, two official plugins are available:
+📦 Tech Stack
+React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router DOM
 
-## Expanding the ESLint configuration
+Context API + useReducer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Axios
+
+Formik + Yup (for form validation)
+
+Tailwind CSS
+
+LocalStorage
+
+React Hooks
+
+📋 Overview
+This single-page application (SPA) delivers a seamless shopping experience with mock API data. It's designed to demonstrate core React concepts including state management, routing, and component reusability — all without a real backend.
+
+🚀 Features
+✅ Modular Components — Reusable UI like Navbar, RecentProducts, CartItem
+✅ Client-Side Routing — Routes: Home, Brands, Login, Register, Cart, 404
+✅ Global State — Context API + useReducer for Auth and Cart
+✅ Persistent Cart — Synced with LocalStorage
+✅ Mock Auth — Login form with Formik & Yup
+✅ Dynamic Product Listing — Fetched via Axios
+✅ Interactive Cart — Add/remove/clear items, auto-updating total
+✅ Responsive UI — Tailwind CSS for styling
+✅ Error Handling — Custom 404 + loading states
+
