@@ -1,8 +1,9 @@
 🛒 My First React E-Commerce App (Frontend Only)
 Welcome to my very first React project! This is a frontend-only, fully responsive e-commerce application built with modern React tools and best practices.
 
-🔗 Live Demo
-👉 Check it out on Netlify
+🔗 Live Demo  
+👉 [Check it out on Netlify](https://app1l.netlify.app)
+
 
 📦 Tech Stack
 React.js
